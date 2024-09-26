@@ -36,10 +36,8 @@ https://www.kaggle.com/datasets/lainguyn123/student-performance-factors/data
    - Box plots to show the distribution of test scores.
    - Scatter plots to explore relationships between study hours, test scores, and other variables.
   
-4. **Insights and Findings**: 
-   - Key insights into the demographic and behavioral factors that affect student performance.
-   - Differences in performance based on gender, parental education, and other attributes.
-   - Potential areas for intervention to improve student outcomes.
+## Insights and Findings:
+
 
 ## 🛠 Tools and Libraries Used
 
