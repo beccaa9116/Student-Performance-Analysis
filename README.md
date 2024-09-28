@@ -36,8 +36,14 @@ https://www.kaggle.com/datasets/lainguyn123/student-performance-factors/data
    - Box plots to show the distribution of test scores.
    - Scatter plots to explore relationships between study hours, test scores, and other variables.
   
-## Insights and Findings:
-
+## 👩🏼‍💻 Insights and Findings:   
+   - Top students have on average 43.0 points more than worst students
+   - Top students have on average scored 12.8 points better than on previous exam
+   - Top students have attended 2.8 more tutoring sessions than worst students
+   - Top students have studied 12.0 hours more than worst students
+   - The best performing student has an exam score of 101 and the worst performing student has an exam score of 55
+   - The best performing student has studied 24.0 hours more than the worst performing student
+   - The best performing student has attended 4.0 more tutoring sessions than the worst performing student
 
 ## 🛠 Tools and Libraries Used
 
